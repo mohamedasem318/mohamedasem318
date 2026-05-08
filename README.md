@@ -6,8 +6,6 @@ BME student @ Helwan University · Creative Technologist · Giza, Egypt
 
 I build AI-powered tools, design things people actually use, and automate whatever gets in my way. Freelancing across Arabic and international platforms while finishing my degree. Open to interesting problems.
 
-<br clear="right"/>
-
 ---
 
 ## What I Build
