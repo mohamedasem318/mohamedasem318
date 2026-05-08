@@ -1,5 +1,3 @@
-<img align="right" src="https://github.com/mohamedasem318.png" width="120" />
-
 # Hey, I'm Mohamed 👋
 
 **Biomedical Engineer who forgot to stay in his lane.**
